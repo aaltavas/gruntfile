@@ -1,3 +1,3 @@
 gruntfile
 =========
-Gruntfile assignment.
+Gruntfile assignment
